@@ -5,9 +5,10 @@
 <h3>I am a university graduate in finance and I am looking for an opportunity to advance in the IT world as a computer programmer.
 I am a versatile person and able to combine various tasks. Experienced in environments working days in which commitment is valued and the ability to work in a team. I consider myself as a proactive and self-taught person.</h3>
 <hr>
-About me:
-- 💬 Ask me about Java, Spring , HTML, CSS and MySQL.
-- 🌱 I’m currently learning Angular, Python...
+<ul>About me:
+<li> 💬 Ask me about Java, Spring , HTML, CSS and MySQL.</li>
+<li> 🌱 I’m currently learning Javascript, Angular, Python...</li>
+</ul>
 <!--
 **Miguel2786/Miguel2786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
