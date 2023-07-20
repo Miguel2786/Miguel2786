@@ -13,7 +13,7 @@
 <hr>
 </div>
 <div align="left">   
-  <h2>🔨 Languages and Tools:</h2>
+  <h2> Languages and Tools:</h2>
   <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="JAVA" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;  
