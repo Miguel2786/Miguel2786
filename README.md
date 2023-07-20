@@ -4,7 +4,7 @@ Hi 👋 , I'm Miguel
 <hr>
 I am a university graduate in finance and I am looking for an opportunity to advance in the IT world as a computer programmer.
 I am a versatile person and able to combine various tasks. Experienced in environments working days in which commitment is valued and the ability to work in a team. I consider myself as a proactive and self-taught person.
-<hr>
+<br>
 About me:
 - 💬 Ask me about Java, Spring , HTML, CSS and MySQL.
 - 🌱 I’m currently learning Angular, Python...
