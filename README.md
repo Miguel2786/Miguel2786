@@ -26,7 +26,8 @@ I am a versatile person and able to combine various tasks. Experienced in enviro
 
   </div>
 </div>
-<hr>
+
+---
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel2786&layout=compat)](https://github.com/anuraghazra/github-readme-stats)
 <!--
