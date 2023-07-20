@@ -29,7 +29,9 @@ I am a versatile person and able to combine various tasks. Experienced in enviro
 
 ---
 ### My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel2786&layout=compat)](https://github.com/anuraghazra/github-readme-stats)
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel2786&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+```
 <!--
 **Miguel2786/Miguel2786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
