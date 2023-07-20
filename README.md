@@ -6,13 +6,14 @@
 I am a versatile person and able to combine various tasks. Experienced in environments working days in which commitment is valued and the ability to work in a team. I consider myself as a proactive and self-taught person.</h3>
 <hr>
 <div>
-<ul>About me:
+<h2><ul>About me:
 <li> 💬 Ask me about Java, Spring , HTML, CSS and MySQL.</li>
 <li> 🌱 I’m currently learning Javascript, Angular, Python...</li>
-</ul>
+</ul></h2>
+<hr>
 </div>
 <div align="left">   
-  <h3>🔨 Languages and Tools:</h3>
+  <h2>🔨 Languages and Tools:</h2>
   <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="JAVA" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;  
@@ -24,6 +25,7 @@ I am a versatile person and able to combine various tasks. Experienced in enviro
 
   </div>
 </div>
+<hr>
 <!--
 **Miguel2786/Miguel2786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
