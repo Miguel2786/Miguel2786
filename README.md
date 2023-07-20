@@ -14,13 +14,14 @@ I am a versatile person and able to combine various tasks. Experienced in enviro
 <div align="left">   
   <h3>🔨 Languages and Tools:</h3>
   <div>
-        <img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" title="Java" alt="JAVA" width="40" height="40"/>&nbsp;
-        <img src=" https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" title="Java" alt="JAVA" width="40" height="40"/>&nbsp;  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="JAVA" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;  
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
   </div>
 </div>
 <!--
