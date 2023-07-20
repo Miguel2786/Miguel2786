@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi 👋 , I'm Miguel
+About me:
+- 💬 Ask me about Java, Spring , HTML, CSS and MySQL.
+- 🌱 I’m currently learning Angular, Python...
 <!--
 **Miguel2786/Miguel2786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
