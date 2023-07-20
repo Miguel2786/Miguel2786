@@ -6,10 +6,11 @@
 I am a versatile person and able to combine various tasks. Experienced in environments working days in which commitment is valued and the ability to work in a team. I consider myself as a proactive and self-taught person.</h3>
 <hr>
 <div>
-<h2><ul>About me:
-<li> 💬 Ask me about Java, Spring , HTML, CSS and MySQL.</li>
-<li> 🌱 I’m currently learning Javascript, Angular, Python...</li>
-</ul></h2>
+<h2>About me:</h2>
+<ul>
+  <li> 💬 Ask me about Java, Spring , HTML, CSS and MySQL.</li>
+  <li> 🌱 I’m currently learning Javascript, Angular, Python...</li>
+</ul>
 <hr>
 </div>
 <div align="left">   
