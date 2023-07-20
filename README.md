@@ -21,7 +21,7 @@ I am a versatile person and able to combine various tasks. Experienced in enviro
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         
-  
+  </div>
 </div>
 <!--
 **Miguel2786/Miguel2786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
