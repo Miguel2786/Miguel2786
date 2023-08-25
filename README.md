@@ -27,7 +27,7 @@
 </div>
 <div align="left">   
   <h2> Certificates:</h2>
-  <h6>Oracle Certified Associate, Java SE 8 Programmer.</h6><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foca-1z0-808-certification-java-exam-practice-tests-oracle-associate%2F&psig=AOvVaw25VrEox4H2iDEXSoSrXmVt&ust=1693039758283000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKCwz92294ADFQAAAAAdAAAAABAD" title="Oca" alt="OCA" width="40" height="40"/>&nbsp;
+  <h6>Oracle Certified Associate, Java SE 8 Programmer.</h6><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Foracle%2Fbadge%2Foracle-certified-associate-java-se-8-programmer&psig=AOvVaw12UZNvNYEW1BhSA7ZQ9C2G&ust=1693039885672000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCICjj5q394ADFQAAAAAdAAAAABAD" title="Oca" alt="OCA" width="40" height="40"/>&nbsp;
 </div>
 
 ---
