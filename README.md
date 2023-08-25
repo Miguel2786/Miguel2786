@@ -27,7 +27,7 @@
 </div>
 <div align="left">   
   <h2> Certificates:</h2>
-  <h6>Oracle Certified Associate, Java SE 8 Programmer.</h6><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Foracle%2Fbadge%2Foracle-certified-associate-java-se-8-programmer&psig=AOvVaw12UZNvNYEW1BhSA7ZQ9C2G&ust=1693039885672000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCICjj5q394ADFQAAAAAdAAAAABAD" title="Oca" alt="OCA" width="40" height="40"/>&nbsp;
+  <h6>Oracle Certified Associate, Java SE 8 Programmer.</h6><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Foracle%2Fbadge%2Foracle-certified-associate-java-se-8-programmer&psig=AOvVaw12UZNvNYEW1BhSA7ZQ9C2G&ust=1693039885672000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCICjj5q394ADFQAAAAAdAAAAABAD](https://images.credly.com/size/680x680/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png)" title="Oca" alt="OCA" width="40" height="40"/>&nbsp;
 </div>
 
 ---
