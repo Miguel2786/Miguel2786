@@ -27,10 +27,11 @@
 </div>
 <div align="left">   
   <h2> Certificates:</h2>
-  <h3>Oracle Certified Associate, Java SE 8 Programmer.</h3>
+  <p>Oracle Certified Associate, Java SE 8 Programmer.</p>
 </div>
 
----### My Stats:
+---
+## My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel2786&layoutdonut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
