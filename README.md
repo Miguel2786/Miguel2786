@@ -25,7 +25,10 @@
 
   </div>
 </div>
-
+<div align="left">   
+  <h2> Certificates:</h2>
+  <h3>Oracle Certified Associate, Java SE 8 Programmer.</h3>
+</div>
 ---
 ### My Stats:
 
