@@ -31,7 +31,6 @@
    <img src="https://images.credly.com/size/680x680/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" title="Oca" alt="OCA" width="80" height="80"/>
   </div>
 </div>
-
 ---
 ###My Stats:
 
