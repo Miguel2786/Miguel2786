@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/D4D16AQHTs6vnR8TCxw/profile-displaybackgroundimage-shrink_350_1400/0/1688590395766?e=1695254400&v=beta&t=XM23P4JQGlOS0rSE80mIjusBggkV0hUd2Bkjs6QVlUI">
+<img src="https://media.licdn.com/dms/image/D4D16AQHTs6vnR8TCxw/profile-displaybackgroundimage-shrink_350_1400/0/1688590395766?e=1703116800&v=beta&t=z866PxU6XAcZmppfaJnCuA_EPJYiyhRxwY9NoOpiRos">
 <h1>Hi 👋 , I'm Miguel</h1>
 
 <h3>"I am a university graduate in finance and I am looking for an opportunity to advance in the IT world as a computer programmer. I am a versatile person capable of multitasking. With experience in work environments that value commitment and the ability to work in a team. I am characterized by being proactive and self-taught.".</h3>
